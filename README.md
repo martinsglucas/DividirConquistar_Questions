@@ -1,4 +1,4 @@
-# Leet Code
+# LeetCode
 
 **Número da Lista**: 19<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
